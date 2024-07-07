@@ -1,7 +1,7 @@
 # nodejs-express-on-aws-ec2
 
 CI/CD from Github to an AWS EC2 instance via CodePipeline and CodeDeploy.
-Used a node.js express app as an example for the demo.  
+Used a node.js express app as an example for the demo.    
 
 ### Install CodeDeploy Agent in EC2
     -- create a script or execute comands one by one
